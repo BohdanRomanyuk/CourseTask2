@@ -97,7 +97,7 @@ public class Main {
 
 
 
-        // Creating file harry20.txt
+        // Creating file harry1.txt
 
         try {
 
@@ -109,7 +109,7 @@ public class Main {
 
             // Creating file
 
-            File f = new File("C:/Users/Quizze/IdeaProjects/CourseTask2/src/rom/edu/harry20.txt");
+            File f = new File("C:/Users/Quizze/IdeaProjects/CourseTask2/src/rom/edu/harry1.txt");
 
             FileWriter fw = new FileWriter(f.getAbsoluteFile());
             BufferedWriter bw = new BufferedWriter(fw);
